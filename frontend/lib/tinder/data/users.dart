@@ -1,0 +1,147 @@
+import 'package:app_liste/tinder/model/user.dart';
+
+final membres = [
+  User(
+    name: 'Aldair',
+    role: 'Soutiens',
+    bio: 'Description Aldair',
+    imgUrl: 'assets/images/20olayachi.jpg',
+  ),
+  User(
+    name: 'Jean-Edouard',
+    role: 'Soutiens',
+    bio: 'Description Jean-Edouard',
+    imgUrl: 'assets/images/20dupau.jpg',
+  ),
+  User(name: '', role: '', bio: '', imgUrl: 'assets/images/soutiens.jpg'),
+  User(
+    name: 'Athanase',
+    role: 'Pôle Externe',
+    bio: 'Description Athanase',
+    imgUrl: 'assets/images/21leuba.jpg',
+  ),
+  User(
+    name: 'Marion',
+    role: 'Pôle Externe',
+    bio: 'Description Marion',
+    imgUrl: 'assets/images/21bouchez.jpg',
+  ),
+  User(
+    name: 'Pierre',
+    role: 'Pôle Externe',
+    bio: 'Description Pierre',
+    imgUrl: 'assets/images/21claudet.jpg',
+  ),
+  User(
+    name: 'Victoire',
+    role: 'Pôle Externe',
+    bio: 'Description Victoire',
+    imgUrl: 'assets/images/21celarier.jpg',
+  ),
+  User(
+    name: 'Lucas',
+    role: 'Respo Externe',
+    bio: 'Description Lucas',
+    imgUrl: 'assets/images/21gentil.jpg',
+  ),
+  User(name: '', role: '', bio: '', imgUrl: 'assets/images/externe.jpg'),
+  User(
+    name: 'Olympe',
+    role: 'Pôle Interne',
+    bio: 'Description Olympe',
+    imgUrl: 'assets/images/21tournier.jpg',
+  ),
+  User(
+    name: 'Timothée',
+    role: 'Pôle Interne',
+    bio: 'Description Timothée',
+    imgUrl: 'assets/images/21schmidt.jpg',
+  ),
+  User(
+    name: 'Arthur',
+    role: 'Pôle Interne',
+    bio: 'Description Arthur',
+    imgUrl: 'assets/images/21riche.jpg',
+  ),
+  User(
+    name: 'Augustin',
+    role: 'Pôle Interne',
+    bio: 'Description Augustin',
+    imgUrl: 'assets/images/21goubault.jpg',
+  ),
+  User(
+    name: 'Antoine',
+    role: 'Pôle Interne',
+    bio: 'Description Antoine',
+    imgUrl: 'assets/images/21laforgue.jpg',
+  ),
+  User(
+    name: 'Alexandre',
+    role: 'Respo Interne',
+    bio: 'Description Alexandre',
+    imgUrl: 'assets/images/21gavaudan.jpg',
+  ),
+  User(name: '', role: '', bio: '', imgUrl: 'assets/images/interne.jpg'),
+  User(
+    name: 'Pauline',
+    role: 'Pôle Entreprise',
+    bio: 'Description Pauline',
+    imgUrl: 'assets/images/20chavandd.jpg',
+  ),
+  User(
+    name: 'Guillaume',
+    role: 'Pôle Entreprise',
+    bio: 'Description Guillaume',
+    imgUrl: 'assets/images/21touly.jpg',
+  ),
+  User(
+    name: 'Raphael',
+    role: 'Pôle Entreprise',
+    bio: 'Description Raphael',
+    imgUrl: 'assets/images/21zaghroun.jpg',
+  ),
+  User(
+    name: 'Mehmet',
+    role: 'Pôle Entreprise',
+    bio: 'Description Mehmet',
+    imgUrl: 'assets/images/21basagac.jpg',
+  ),
+  User(
+    name: 'Ludovic',
+    role: 'Pôle Entreprise',
+    bio: 'Description Ludovic',
+    imgUrl: 'assets/images/21lepic.jpg',
+  ),
+  User(name: '', role: '', bio: '', imgUrl: 'assets/images/entreprise.jpg'),
+  User(
+    name: 'Simon',
+    role: 'Respo Entreprise',
+    bio: 'Description Simon',
+    imgUrl: 'assets/images/21dubail.jpg',
+  ),
+  User(
+    name: 'Alizée',
+    role: 'Sec Gen',
+    bio: 'Description Alizée',
+    imgUrl: 'assets/images/21cinquin.jpg',
+  ),
+  User(
+    name: 'Pierre',
+    role: 'Trésorier',
+    bio: 'Description Pierre',
+    imgUrl: 'assets/images/21pili.jpg',
+  ),
+  User(
+    name: 'Théophile',
+    role: 'Vice Prez',
+    bio: 'Description Théophile',
+    imgUrl: 'assets/images/21dechelot.jpg',
+  ),
+  User(
+    name: 'Alison',
+    role: 'Présidente',
+    bio: 'Description Alison',
+    imgUrl: 'assets/images/21profit.jpg',
+  ),
+  User(name: '', role: '', bio: '', imgUrl: 'assets/images/bureau.jpg')
+];
